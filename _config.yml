@@ -25,10 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Panagiotis Alexiou"
   pronouns         : # example: "she/her"  
-  bio              : "Dr. Panagiotis Alexiou is an ERA Chair at the University of Malta, leading the Bioinformatics for Genomics in Malta (BioGeMT) program. With over 15 years of experience in bioinformatics and computational biology, he specializes in developing advanced solutions for genomics, transcriptomics, and other -omics data analysis.
-Previously, Dr. Alexiou served as Head of the Bioinformatics Core Facility and Junior Group Leader at CEITEC (Central European Institute of Technology). His career includes significant research positions at the University of Pennsylvania School of Medicine, where he worked as a Research Associate and Postdoctoral Researcher for over six years.
-Dr. Alexiou holds a Ph.D. in Bioinformatics from Aristotle University of Thessaloniki (with highest distinction), an M.Sc. in Molecular Cell Biology & Bioinformatics from the University of Amsterdam, and a B.Sc. in Genetics from the University of Aberdeen.
-His expertise spans machine learning, deep learning, next-generation sequencing analysis, and various programming languages including Python, R, and Perl. Dr. Alexiou is committed to advancing bioinformatics capabilities and computational approaches to biological research."
+  bio              : "Dr. Panagiotis Alexiou is an ERA Chair at the University of Malta, leading the Bioinformatics for Genomics program. Previously, he headed the Bioinformatics Core Facility at CEITEC and conducted research at the University of Pennsylvania. With expertise in genomics, machine learning, and computational biology, Dr. Alexiou holds a Ph.D. in Bioinformatics from Aristotle University, an M.Sc. from the University of Amsterdam, and a B.Sc. from the University of Aberdeen. His work focuses on developing advanced computational solutions for analyzing complex biological data."
   location         : "Malta"
   employer         : "University of Malta"
   uri              : # URL
